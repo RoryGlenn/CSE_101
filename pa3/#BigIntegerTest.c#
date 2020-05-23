@@ -1,0 +1,34 @@
+//
+// Created by Rory Glenn on 10/31/2019.
+//
+
+#include "BigInteger.h"
+#include 
+//void testBigInt();
+//void testList();
+//void testArithmetic();
+
+
+int main()
+{
+
+  //    void (*test_ptr()[])(void)
+  //    {
+  //      testBigInt,
+  //      testList,
+  //      testArithmetic
+  //  };
+
+  //   for (int i = 0; i < 3; i++)
+  //  {
+        // call test_ptr
+
+  //  }
+
+  Big
+}
+
+//void testBigInt()
+//{
+//
+//}

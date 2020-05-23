@@ -1,0 +1,43 @@
+
+
+Test Empty_length: PASSED
+Test Append_length: PASSED
+Test Prepend_length: PASSED
+Test InsertAfter_length: PASSED
+Test InsertBefore_length: PASSED
+Test DeleteFront_length: PASSED
+Test DeleteBack_length: PASSED
+Test Delete_length: PASSED
+Test EmptyList_index: PASSED
+Test MoveFront_index: PASSED
+Test MoveBack_index: PASSED
+Test MoveNext_index: PASSED
+Test MovePrev_index: PASSED
+Test Append_index: PASSED
+Test Prepend_index: PASSED
+Test InsertAfter_index: PASSED
+Test InsertBefore_index: PASSED
+Test DeleteFront_index: PASSED
+Test DeleteBack_index: PASSED
+Test Delete_index: PASSED
+Test Append_equals: PASSED
+Test Prepend_equals: PASSED
+Test InsertAfter_equals: PASSED
+Test InsertBefore_equals: PASSED
+Test DeleteFront_equals: PASSED
+Test DeleteBack_equals: PASSED
+Test Delete_equals: PASSED
+Test Empty_clear: PASSED
+Test NonEmpty_clear: PASSED
+Test Set_get: PASSED
+Test Set_front: PASSED
+Test NonEmpty_front: PASSED
+Test Set_back: PASSED
+Test NonEmpty_back: PASSED
+Test Empty_copyList: PASSED
+Test NonEmpty_copyList: PASSED
+
+You passed 36 out of 36 tests
+
+You will receive 55 out of 55 possible points on the ListTests
+

@@ -1,0 +1,44 @@
+//
+// Created by Rory Glenn on 10/31/2019.
+//
+
+#include "BigInteger.h"
+#include <assert.h>
+/*
+void testBigInt();
+void testList();
+void testArithmetic();
+*/
+
+int main()
+{
+  /*
+    void (*test_ptr()[])(void)
+    {
+        testBigInt,
+        testList,
+        testArithmetic
+    };
+
+
+    for (int i = 0; i < 3; i++)
+    {
+        // call test_ptr
+
+    }
+  */
+
+  BigInteger bInt = newBigInteger();
+  printf("%d", sign(bInt));
+  freeBigInteger(&bInt);
+  //  assert( sign(bInt) != 0);
+  return 0;
+
+}
+
+/*
+void testBigInt()
+{
+
+}
+*/
